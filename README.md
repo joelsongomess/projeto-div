@@ -18,6 +18,7 @@ como baixar o git em sua maquina => https://git-scm.com/downloads
 para instalar é somente apertar next ate o finish
 
 apos instalado abra o terminar com comando window + r -> cmd -> ok
+
 se tiver seguido o comando a cima com sucesso tera aberto um terminal 
 apos abrir o terminal crie uma pasta com comando
 mkdir nome-pasta
