@@ -17,26 +17,7 @@ h1, h2 {
   
 }
 
-.div-flex {
-  border: 2px dashed #28a745;
-  background-color: #e6ffe6;
-  padding: 20px;
-  display: flex;
-  gap: 10px;
-  justify-content: space-around;
-  align-items: center;
-}
-.div-flex2 {
-  border: 2px dashed #28a745;
-  background-color: #e6ffe6;
-  padding: 20px;
-  display: flex;
-  gap: 10px;
-  justify-content: center;
-  align-items: center;
-  
 
-}
 
 /* Estilo comum para elementos */
 .div-normal p, .div-flex p, .div-normal button, .div-flex button {
