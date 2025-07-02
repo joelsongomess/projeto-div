@@ -17,10 +17,15 @@ https://joelsongomess.github.io/projeto-div/index.html
 como baixar o git em sua maquina => https://git-scm.com/downloads
 para instalar é somente apertar next ate o finish
 
-apos instalado abra o terminar
+apos instalado abra o terminar com comando window + r -> cmd -> ok
+se tiver seguido o comando a cima com sucesso tera aberto um terminal 
+apos abrir o terminal crie uma pasta com comando
+mkdir nome-pasta
+
 copie o endereço do link do reposito (faça um clone )
 https://github.com/joelsongomess/projeto-div.git
 
+comando do clone a baixo
 git clone https://github.com/joelsongomess/projeto-div.git
 
 apos clonar o projeto entre na pasta com comando cd e tecla tab
