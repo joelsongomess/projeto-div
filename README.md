@@ -42,7 +42,7 @@ comando que cria e muda para branch de um só vez<br>
 
 apos estar na nova branch deve se fazer alteração sugerida
 
-protificar suas alterações com comando 
+prontificar suas alterações com comando 
 git add .
 
 identificar sua alteração com comando
