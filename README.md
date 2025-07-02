@@ -17,28 +17,28 @@ https://joelsongomess.github.io/projeto-div/index.html
 como baixar o git em sua maquina => https://git-scm.com/downloads
 para instalar é somente apertar next ate o finish
 
-apos instalado abra o terminar com comando window + r -> cmd -> ok
+apos instalado abra o terminar com comando *window + r* -> *cmd* -> botão ok
 
 se tiver seguido o comando a cima com sucesso tera aberto um terminal 
-apos abrir o terminal crie uma pasta com comando
-mkdir nome-pasta
+apos abrir o terminal crie uma pasta com comando<br>
+*mkdir nome-pasta*
 
 copie o endereço do link do reposito (faça um clone )
 https://github.com/joelsongomess/projeto-div.git
 
-comando do clone a baixo
-git clone https://github.com/joelsongomess/projeto-div.git
+comando do clone a baixo<br>
+*git clone https://github.com/joelsongomess/projeto-div.git*
 
-apos clonar o projeto entre na pasta com comando cd e tecla tab
+apos clonar o projeto entre na pasta com comando cd e tecla tab<br>
 
-como criar uma nova branch apartir da branch main
-git branch nova-branch
+como criar uma nova branch apartir da branch main<br>
+*git branch nova-branch*
 
-como mudar para nova branch
-git checkout nova-branch
+como mudar para nova branch<br>
+*git checkout nova-branch*
 
-comando que cria e muda para branch de um só vez
-git checkout -b nova-branch
+comando que cria e muda para branch de um só vez<br>
+*git checkout -b nova-branch*
 
 apos estar na nova branch deve se fazer alteração sugerida
 
