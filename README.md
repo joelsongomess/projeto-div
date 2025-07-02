@@ -42,15 +42,18 @@ comando que cria e muda para branch de um só vez<br>
 
 apos estar na nova branch deve se fazer alteração sugerida
 
-protificar suas alterações com comando 
-git add .
+utilize o comando: *git status* para ver cada etapa de sua alteração
+
+prontificar suas alterações com comando 
+*git add .*
 
 identificar sua alteração com comando
-git commit -m "escreve breve texto do que foi alterado"
+*git commit -m "escreve breve texto do que foi alterado"*
 
 comando para subir a alteração
-git push origin nova-branch
+*git push origin nova-branch*
 
 se quiser mapear a branch nova criada para nao ter que usar origin e nome da branch utilize o comando
-git push --set-upstream origin nova-branch
+*git push --set-upstream origin nova-branch*
 e nas proximas alterações pode ser utilizado somente o comando git push
+
